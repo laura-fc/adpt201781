@@ -1,6 +1,6 @@
-# adpt201781
+# README
 
-Welcome! This repository is for candidates of Adaptive's Computational Biologist I/II (Cellular Research & Innovation) position #201871. Here, you will find instructions in PDF format and a folder containing all the necessary data.
+Welcome! This repository is for candidates of *Adaptive's Computational Biologist I/II (Cellular Research & Innovation) position #201871.* Here, you will find instructions in PDF format and a folder containing all the necessary data.
 
 I am happy to answer clarifying questions, but the method approach is up to you. If any such questions arise, please email me (lcampitelli@adaptivebiotech.com) and I will do my best to reply in a timely fashion.
 
